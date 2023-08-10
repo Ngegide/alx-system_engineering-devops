@@ -1,2 +1,1 @@
-#!/bin/bash
-echo Hello, World
+Projects on Shell variables and shell expansions
